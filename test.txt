@@ -1,2 +1,1 @@
-oh neat its working and has recognized the past commits ive made with this key because its on my github now :D
-that didn't work. does vscode add the -S flag?
+isnt every repo local?
