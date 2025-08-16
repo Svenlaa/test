@@ -1,2 +1,1 @@
-isnt every repo local?
-it worked. how about if i do it from vscode? does that use its own git config or the one i set up. i sure hope it uses the one i set up
+hello this is me on a new device :o
